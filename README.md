@@ -7,6 +7,8 @@ An embedded systems project built with a Raspberry Pi Pico and MicroPython that 
 * Potentiometer (10k ohm)
 * LED & Resistor (220 ohm)
 * Breadboard & Jumper Wires
+* 
+[Image of Variable LED.pdf](https://github.com/user-attachments/files/33891914/Image.of.Variable.LED.pdf)
 
 ## 💻 Code Overview
 ```python
